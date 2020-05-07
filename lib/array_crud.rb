@@ -38,6 +38,6 @@ end
 
 def retrieve_last_element_from_array(array)
     numbers = [1, 2, 3, 4, "arrays!"]
-    numbers[-1]
+    numbers[5]
 end
 end
