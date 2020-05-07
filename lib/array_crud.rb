@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  radiohead members = []
+  radiohead members = [thom, jonny, ed, phil, colin]
   
 end
 
