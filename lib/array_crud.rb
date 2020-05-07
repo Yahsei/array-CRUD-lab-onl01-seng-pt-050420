@@ -28,7 +28,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   words = ["am"]
-  words = 0
+  words[0]
 end
 
 def retrieve_first_element_from_array(array)
